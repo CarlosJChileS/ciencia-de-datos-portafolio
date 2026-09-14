@@ -74,6 +74,8 @@ El portafolio ya incluye material y prácticas identificadas como proyectos de m
 - Prácticas de analítica de negocios y visualización.
 - Material relacionado con modelos y proyectos de minería de datos.
 
+Durante la revisión se retiraron del repositorio documentos de portada, redes, testing, desarrollo web, programación orientada a objetos y otras materias sin relación directa con datos. Esos archivos se conservaron localmente en `Material auxiliar no publicado`.
+
 ## Cómo documentar un nuevo proyecto
 
 Cada nuevo proyecto debería incluir, cuando sea posible:
