@@ -1,0 +1,26 @@
+
+
+#cargando librerias
+
+```{r}
+#control + a, para seleccionar todo
+#control + alt +i para abrir un nuevo chunk
+
+
+
+library(openxlsx)
+library(dplyr)
+
+```
+#---cargar bases de datos#---
+```{r}
+
+#openxlsx
+datos <- read.xlsx("C:\Users\carlo\Downloads\Nueva carpeta\empresas_HEBM18.xlsx",na.strings = T)
+
+head(datos)
+str(datos)
+names(datos)
+
+```
+
