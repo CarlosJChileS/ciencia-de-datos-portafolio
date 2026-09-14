@@ -1,6 +1,6 @@
 # Ciencia de datos — portafolio y aprendizaje
 
-Repositorio personal para documentar mi progreso en ciencia de datos, analítica y visualización.
+Repositorio personal para documentar mi progreso en ciencia de datos, análisis, minería y visualización. Incluye prácticas académicas, ejercicios y proyectos desarrollados con Excel, Power BI y herramientas relacionadas.
 
 ## Áreas del portafolio
 
@@ -57,6 +57,37 @@ El portafolio ya incluye material y prácticas identificadas como proyectos de m
 - `03_formacion_excel/`: ejercicios de Excel, Power Query, DAX y modelado.
 - `04_power_bi/`: prácticas y reportes de Power BI.
 
+## Tecnologías y formatos incluidos
+
+- Excel: `.xlsx`, `.xlsm`, `.xls`.
+- Power BI: `.pbix`.
+- Datos: `.csv`, `.txt` y archivos de trabajo relacionados.
+- Documentación: `.docx`, `.pdf`, `.pptx` y `.rmd`.
+- Programación: scripts `.py` y otros archivos de prácticas.
+
+## Proyectos destacados
+
+- Reportes de ventas y finanzas en Excel.
+- Dashboards y reportes interactivos en Power BI.
+- Procesos ETL y transformación de datos con Excel/Power Query.
+- Modelado, métricas y ejercicios de DAX.
+- Prácticas de analítica de negocios y visualización.
+- Material relacionado con modelos y proyectos de minería de datos.
+
+## Cómo documentar un nuevo proyecto
+
+Cada nuevo proyecto debería incluir, cuando sea posible:
+
+1. Objetivo o pregunta de negocio.
+2. Fuente y descripción de los datos.
+3. Limpieza y transformaciones realizadas.
+4. Análisis, métricas y visualizaciones.
+5. Conclusiones y próximos pasos.
+
+## Estado del repositorio
+
+El repositorio contiene actualmente el portafolio inicial organizado en las cuatro áreas anteriores. Se irá ampliando con proyectos de Python, SQL, estadística y machine learning.
+
 ## Objetivos
 
 - Consolidar fundamentos de Excel, Power Query y DAX.
@@ -75,4 +106,4 @@ El portafolio ya incluye material y prácticas identificadas como proyectos de m
 | SQL y estadística | Próximo paso |
 | Analítica/minería | Próximo paso |
 
-> Nota: los archivos binarios (`.xlsx`, `.xlsm`, `.pbix`) se conservan para uso local. Antes de publicar el repositorio, revisar datos personales, credenciales y archivos con información confidencial.
+> Nota: el repositorio es privado. Se excluyen temporales, archivos comprimidos y recuperaciones automáticas. Antes de cambiarlo a público, revisar datos personales, credenciales y material académico con restricciones de distribución.
