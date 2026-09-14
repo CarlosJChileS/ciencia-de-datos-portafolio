@@ -1,0 +1,19 @@
+# Temporales de Office y Power BI
+~$*
+*.tmp
+*.bak
+*.pbi-tools*
+
+# Archivos comprimidos o recuperaciones automáticas
+*.rar
+*.zip
+*Recuperado automáticamente*
+
+# Entornos y cachés
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos locales potencialmente sensibles
+*.accdb
+*.mdb
